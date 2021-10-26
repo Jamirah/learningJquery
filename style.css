@@ -1,0 +1,18 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+header {
+  background-color: teal;
+  padding: 5px;
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.input {
+  color: forestgreen;
+}
