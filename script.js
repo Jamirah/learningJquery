@@ -1,10 +1,10 @@
 $(document).ready(function () {
   $("header").hover(
     function () {
-      $(this).css("background-color", "orange");
+      $(this).css("background-color", "teal");
     },
     function () {
-      $(this).css("background-color", "aquamarine");
+      $(this).css("background-color", "pink");
     }
   );
 });
